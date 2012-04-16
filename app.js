@@ -1,4 +1,4 @@
-var base = require('./src/base'),
+var base = require('./src/base'),i
     BenchmarkSuite = base.BenchmarkSuite,
     Benchmark = base.Benchmark;
 
@@ -9,6 +9,7 @@ require('./src/raytrace').init(BenchmarkSuite, Benchmark);
 require('./src/earley-boyer').init(BenchmarkSuite, Benchmark);
 require('./src/regexp').init(BenchmarkSuite, Benchmark);
 require('./src/splay').init(BenchmarkSuite, Benchmark);
+require('./src/navier-stokes').init(BenchmarkSuite, Benchmark);
 
 var completed = 0;
 var benchmarks = BenchmarkSuite.CountBenchmarks();
