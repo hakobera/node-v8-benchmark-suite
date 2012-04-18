@@ -3,7 +3,7 @@ V8 Benchmark Suite for Node.js
 
 This is a V8 Benchmark Suite, one of JavaScript benchmark suite, for Node.js.
 
-The original version is found at [V8 Benchmark Suite Version 6](http://v8.googlecode.com/svn/data/benchmarks/v6/run.html)
+The original version is found at [V8 Benchmark Suite Version 7](http://v8.googlecode.com/svn/data/benchmarks/v7/run.html)
 
 LICENSE (original)
 ------------------
