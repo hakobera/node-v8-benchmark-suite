@@ -1,4 +1,4 @@
-var base = require('./src/base'),i
+var base = require('./src/base'),
     BenchmarkSuite = base.BenchmarkSuite,
     Benchmark = base.Benchmark;
 
